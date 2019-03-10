@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="God-Apollo" />
+        <module name="God-Athena" />
+        <module name="God-Demeter" />
+        <module name="God-Hades" />
+        <module name="God-Hadoop" />
+        <module name="God-Hephaestus" />
+        <module name="God-Hera" />
+        <module name="God-Hermes" />
+        <module name="God-JStom" />
+        <module name="God-Medusa" />
+        <module name="God-Melanippe" />
+        <module name="God-Poseidon" />
+        <module name="God-Scalam" />
+        <module name="God-Venus" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="God-Apollo" target="1.8" />
+      <module name="God-Athena" target="1.8" />
+      <module name="God-Demeter" target="1.8" />
+      <module name="God-Hades" target="1.8" />
+      <module name="God-Hadoop" target="1.8" />
+      <module name="God-Hephaestus" target="1.8" />
+      <module name="God-Hera" target="1.8" />
+      <module name="God-Hermes" target="1.8" />
+      <module name="God-JStom" target="1.8" />
+      <module name="God-Medusa" target="1.8" />
+      <module name="God-Melanippe" target="1.8" />
+      <module name="God-Poseidon" target="1.8" />
+      <module name="God-Scalam" target="1.8" />
+      <module name="God-Venus" target="1.8" />
+      <module name="Zeus" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Apollo/God-Apollo.iml" filepath="$PROJECT_DIR$/../Apollo/God-Apollo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Athena/God-Athena.iml" filepath="$PROJECT_DIR$/../Athena/God-Athena.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Demeter/God-Demeter.iml" filepath="$PROJECT_DIR$/../Demeter/God-Demeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Hades/God-Hades.iml" filepath="$PROJECT_DIR$/../Hades/God-Hades.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Hadoop/God-Hadoop.iml" filepath="$PROJECT_DIR$/../Hadoop/God-Hadoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Hephaestus/God-Hephaestus.iml" filepath="$PROJECT_DIR$/../Hephaestus/God-Hephaestus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Hera/God-Hera.iml" filepath="$PROJECT_DIR$/../Hera/God-Hera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Hermes/God-Hermes.iml" filepath="$PROJECT_DIR$/../Hermes/God-Hermes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JStom/God-JStom.iml" filepath="$PROJECT_DIR$/../JStom/God-JStom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Medusa/God-Medusa.iml" filepath="$PROJECT_DIR$/../Medusa/God-Medusa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Melanippe/God-Melanippe.iml" filepath="$PROJECT_DIR$/../Melanippe/God-Melanippe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Poseidon/God-Poseidon.iml" filepath="$PROJECT_DIR$/../Poseidon/God-Poseidon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Scala/God-Scalam.iml" filepath="$PROJECT_DIR$/../Scala/God-Scalam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Venus/God-Venus.iml" filepath="$PROJECT_DIR$/../Venus/God-Venus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Zeus.iml" filepath="$PROJECT_DIR$/.idea/Zeus.iml" />
+    </modules>
+  </component>
+</project>
